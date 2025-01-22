@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\EventosBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|c:\\users\\user\\documents\\eventosbackend\\src\\eventosbackend\\eventos.application\\abstractions\\messaging\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|solutionrelative:src\\eventosbackend\\eventos.application\\abstractions\\messaging\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|c:\\users\\user\\documents\\eventosbackend\\src\\eventosbackend\\eventos.application\\abstractions\\messaging\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|solutionrelative:src\\eventosbackend\\eventos.application\\abstractions\\messaging\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|c:\\users\\user\\documents\\eventosbackend\\src\\eventosbackend\\eventos.application\\abstractions\\messaging\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|solutionrelative:src\\eventosbackend\\eventos.application\\abstractions\\messaging\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|c:\\users\\user\\documents\\eventosbackend\\src\\eventosbackend\\eventos.application\\abstractions\\messaging\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|solutionrelative:src\\eventosbackend\\eventos.application\\abstractions\\messaging\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|c:\\users\\user\\documents\\eventosbackend\\src\\eventosbackend\\eventos.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|solutionrelative:src\\eventosbackend\\eventos.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|c:\\users\\user\\documents\\eventosbackend\\src\\eventosbackend\\eventos.application\\eventos.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|solutionrelative:src\\eventosbackend\\eventos.application\\eventos.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\EventosBackend\\Eventos.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "RelativeToolTip": "src\\EventosBackend\\Eventos.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T04:32:51.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "RelativeDocumentMoniker": "src\\EventosBackend\\Eventos.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "RelativeToolTip": "src\\EventosBackend\\Eventos.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T04:30:45.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\EventosBackend\\Eventos.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Abstractions\\Messaging\\IQueryHandler.cs*",
+              "RelativeToolTip": "src\\EventosBackend\\Eventos.Application\\Abstractions\\Messaging\\IQueryHandler.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T04:27:50.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Abstractions\\Messaging\\IQuery.cs",
+              "RelativeDocumentMoniker": "src\\EventosBackend\\Eventos.Application\\Abstractions\\Messaging\\IQuery.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Abstractions\\Messaging\\IQuery.cs*",
+              "RelativeToolTip": "src\\EventosBackend\\Eventos.Application\\Abstractions\\Messaging\\IQuery.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T04:24:36.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Eventos.Application",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj",
+              "RelativeDocumentMoniker": "src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj*",
+              "RelativeToolTip": "src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-22T04:16:50.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\EventosBackend\\Eventos.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\EventosBackend\\Eventos.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T04:17:15.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

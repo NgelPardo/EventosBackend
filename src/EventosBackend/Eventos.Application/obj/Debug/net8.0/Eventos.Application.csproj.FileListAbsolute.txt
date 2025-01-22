@@ -1,0 +1,15 @@
+C:\Users\User\Documents\EventosBackend\src\EventosBackend\Eventos.Application\bin\Debug\net8.0\Eventos.Application.deps.json
+C:\Users\User\Documents\EventosBackend\src\EventosBackend\Eventos.Application\bin\Debug\net8.0\Eventos.Application.dll
+C:\Users\User\Documents\EventosBackend\src\EventosBackend\Eventos.Application\bin\Debug\net8.0\Eventos.Application.pdb
+C:\Users\User\Documents\EventosBackend\src\EventosBackend\Eventos.Application\bin\Debug\net8.0\Eventos.Domain.dll
+C:\Users\User\Documents\EventosBackend\src\EventosBackend\Eventos.Application\bin\Debug\net8.0\Eventos.Domain.pdb
+C:\Users\User\Documents\EventosBackend\src\EventosBackend\Eventos.Application\obj\Debug\net8.0\Eventos.Application.csproj.AssemblyReference.cache
+C:\Users\User\Documents\EventosBackend\src\EventosBackend\Eventos.Application\obj\Debug\net8.0\Eventos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\EventosBackend\src\EventosBackend\Eventos.Application\obj\Debug\net8.0\Eventos.Application.AssemblyInfoInputs.cache
+C:\Users\User\Documents\EventosBackend\src\EventosBackend\Eventos.Application\obj\Debug\net8.0\Eventos.Application.AssemblyInfo.cs
+C:\Users\User\Documents\EventosBackend\src\EventosBackend\Eventos.Application\obj\Debug\net8.0\Eventos.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\EventosBackend\src\EventosBackend\Eventos.Application\obj\Debug\net8.0\Eventos..210DD30F.Up2Date
+C:\Users\User\Documents\EventosBackend\src\EventosBackend\Eventos.Application\obj\Debug\net8.0\Eventos.Application.dll
+C:\Users\User\Documents\EventosBackend\src\EventosBackend\Eventos.Application\obj\Debug\net8.0\refint\Eventos.Application.dll
+C:\Users\User\Documents\EventosBackend\src\EventosBackend\Eventos.Application\obj\Debug\net8.0\Eventos.Application.pdb
+C:\Users\User\Documents\EventosBackend\src\EventosBackend\Eventos.Application\obj\Debug\net8.0\ref\Eventos.Application.dll
