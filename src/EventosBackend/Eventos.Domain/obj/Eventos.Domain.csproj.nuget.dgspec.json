@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\EventosBackend\\src\\EventosBackend\\Eventos.Domain\\Eventos.Domain.csproj": {}
+    "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Domain\\Eventos.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\EventosBackend\\src\\EventosBackend\\Eventos.Domain\\Eventos.Domain.csproj": {
+    "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Domain\\Eventos.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\EventosBackend\\src\\EventosBackend\\Eventos.Domain\\Eventos.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Domain\\Eventos.Domain.csproj",
         "projectName": "Eventos.Domain",
-        "projectPath": "C:\\Users\\User\\Documents\\EventosBackend\\src\\EventosBackend\\Eventos.Domain\\Eventos.Domain.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\EventosBackend\\src\\EventosBackend\\Eventos.Domain\\obj\\",
+        "projectPath": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Domain\\Eventos.Domain.csproj",
+        "packagesPath": "C:\\Users\\miguelapardor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\miguelapardor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,8 +25,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://maceio.interrapidisimo.co:4445/nuget": {}
         },
         "frameworks": {
           "net8.0": {
@@ -71,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

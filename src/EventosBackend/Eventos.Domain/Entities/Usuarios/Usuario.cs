@@ -4,6 +4,7 @@ namespace Eventos.Domain.Entities.Users
 {
     public sealed class Usuario : Entity
     {
+        private Usuario() { }
         private Usuario(
             Guid id,
             string nombre,

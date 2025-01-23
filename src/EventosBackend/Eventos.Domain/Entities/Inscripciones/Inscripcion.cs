@@ -4,6 +4,7 @@ namespace Eventos.Domain.Entities.Inscripciones
 {
     public sealed class Inscripcion : Entity
     {
+        private Inscripcion() { }
         private Inscripcion(
             Guid id,
             Guid usuarioId,

@@ -10,3 +10,16 @@ C:\Users\User\Documents\EventosBackend\src\EventosBackend\Eventos.Domain\obj\Deb
 C:\Users\User\Documents\EventosBackend\src\EventosBackend\Eventos.Domain\obj\Debug\net8.0\Eventos.Domain.pdb
 C:\Users\User\Documents\EventosBackend\src\EventosBackend\Eventos.Domain\obj\Debug\net8.0\ref\Eventos.Domain.dll
 C:\Users\User\Documents\EventosBackend\src\EventosBackend\Eventos.Domain\obj\Debug\net8.0\Eventos.Domain.csproj.AssemblyReference.cache
+C:\Users\miguelapardor\Documents\PRUEBATECNICA\EventosBackend\src\EventosBackend\Eventos.Domain\bin\Debug\net8.0\Eventos.Domain.deps.json
+C:\Users\miguelapardor\Documents\PRUEBATECNICA\EventosBackend\src\EventosBackend\Eventos.Domain\bin\Debug\net8.0\Eventos.Domain.dll
+C:\Users\miguelapardor\Documents\PRUEBATECNICA\EventosBackend\src\EventosBackend\Eventos.Domain\bin\Debug\net8.0\Eventos.Domain.pdb
+C:\Users\miguelapardor\Documents\PRUEBATECNICA\EventosBackend\src\EventosBackend\Eventos.Domain\obj\Debug\net8.0\Eventos.Domain.csproj.AssemblyReference.cache
+C:\Users\miguelapardor\Documents\PRUEBATECNICA\EventosBackend\src\EventosBackend\Eventos.Domain\obj\Debug\net8.0\Eventos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miguelapardor\Documents\PRUEBATECNICA\EventosBackend\src\EventosBackend\Eventos.Domain\obj\Debug\net8.0\Eventos.Domain.AssemblyInfoInputs.cache
+C:\Users\miguelapardor\Documents\PRUEBATECNICA\EventosBackend\src\EventosBackend\Eventos.Domain\obj\Debug\net8.0\Eventos.Domain.AssemblyInfo.cs
+C:\Users\miguelapardor\Documents\PRUEBATECNICA\EventosBackend\src\EventosBackend\Eventos.Domain\obj\Debug\net8.0\Eventos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\miguelapardor\Documents\PRUEBATECNICA\EventosBackend\src\EventosBackend\Eventos.Domain\obj\Debug\net8.0\Eventos.Domain.sourcelink.json
+C:\Users\miguelapardor\Documents\PRUEBATECNICA\EventosBackend\src\EventosBackend\Eventos.Domain\obj\Debug\net8.0\Eventos.Domain.dll
+C:\Users\miguelapardor\Documents\PRUEBATECNICA\EventosBackend\src\EventosBackend\Eventos.Domain\obj\Debug\net8.0\refint\Eventos.Domain.dll
+C:\Users\miguelapardor\Documents\PRUEBATECNICA\EventosBackend\src\EventosBackend\Eventos.Domain\obj\Debug\net8.0\Eventos.Domain.pdb
+C:\Users\miguelapardor\Documents\PRUEBATECNICA\EventosBackend\src\EventosBackend\Eventos.Domain\obj\Debug\net8.0\ref\Eventos.Domain.dll

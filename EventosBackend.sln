@@ -11,6 +11,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eventos.Domain", "src\Event
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eventos.Application", "src\EventosBackend\Eventos.Application\Eventos.Application.csproj", "{B6A3086D-1D39-4498-A296-359D7D63F90E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eventos.Infrastructure", "src\EventosBackend\Eventos.Infrastructure\Eventos.Infrastructure.csproj", "{268102F8-AA4A-4CBC-8517-164D68964CAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eventos.Api", "src\EventosBackend\Eventos.Api\Eventos.Api.csproj", "{CF8714FE-BC37-4A0A-9C17-E456D02046FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,14 @@ Global
 		{B6A3086D-1D39-4498-A296-359D7D63F90E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6A3086D-1D39-4498-A296-359D7D63F90E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6A3086D-1D39-4498-A296-359D7D63F90E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{268102F8-AA4A-4CBC-8517-164D68964CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268102F8-AA4A-4CBC-8517-164D68964CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268102F8-AA4A-4CBC-8517-164D68964CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268102F8-AA4A-4CBC-8517-164D68964CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF8714FE-BC37-4A0A-9C17-E456D02046FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF8714FE-BC37-4A0A-9C17-E456D02046FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF8714FE-BC37-4A0A-9C17-E456D02046FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF8714FE-BC37-4A0A-9C17-E456D02046FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -33,6 +45,8 @@ Global
 		{831BEC60-609D-4DEB-93C0-D66379172A7C} = {C24FD879-4093-4442-B5FC-B1C9E7F51E0A}
 		{97F0265B-3935-4EF2-866C-350B3220A638} = {831BEC60-609D-4DEB-93C0-D66379172A7C}
 		{B6A3086D-1D39-4498-A296-359D7D63F90E} = {831BEC60-609D-4DEB-93C0-D66379172A7C}
+		{268102F8-AA4A-4CBC-8517-164D68964CAD} = {831BEC60-609D-4DEB-93C0-D66379172A7C}
+		{CF8714FE-BC37-4A0A-9C17-E456D02046FA} = {831BEC60-609D-4DEB-93C0-D66379172A7C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A93D75C2-46DD-439A-A6B7-CA42529BA727}

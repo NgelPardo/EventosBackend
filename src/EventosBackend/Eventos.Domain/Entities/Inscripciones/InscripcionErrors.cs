@@ -18,5 +18,10 @@ namespace Eventos.Domain.Entities.Inscripciones
             "Inscripcion.EventCapacityLimitError",
             "No puedes inscribirte en este evento porque se ha alcanzado la capacidad máxima de asistentes."
         );
+
+        public static Error AlreadyRegisteredForEvent = new Error(
+            "Inscripcion.AlreadyRegisteredForEvent",
+            "Ya estas inscrito en este evento."
+        );
     }
 }
