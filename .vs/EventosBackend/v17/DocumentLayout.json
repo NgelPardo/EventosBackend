@@ -3,48 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|c:\\users\\miguelapardor\\documents\\pruebatecnica\\eventosbackend\\src\\eventosbackend\\eventos.application\\inscripciones\\inscribirevento\\inscribireventocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|solutionrelative:src\\eventosbackend\\eventos.application\\inscripciones\\inscribirevento\\inscribireventocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|c:\\users\\miguelapardor\\documents\\pruebatecnica\\eventosbackend\\src\\eventosbackend\\eventos.application\\eventos\\getevento\\geteventosqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|solutionrelative:src\\eventosbackend\\eventos.application\\eventos\\getevento\\geteventosqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97F0265B-3935-4EF2-866C-350B3220A638}|src\\EventosBackend\\Eventos.Domain\\Eventos.Domain.csproj|c:\\users\\miguelapardor\\documents\\pruebatecnica\\eventosbackend\\src\\eventosbackend\\eventos.domain\\ports\\iinscripcionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97F0265B-3935-4EF2-866C-350B3220A638}|src\\EventosBackend\\Eventos.Domain\\Eventos.Domain.csproj|solutionrelative:src\\eventosbackend\\eventos.domain\\ports\\iinscripcionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|c:\\users\\miguelapardor\\documents\\pruebatecnica\\eventosbackend\\src\\eventosbackend\\eventos.application\\inscripciones\\getinscripcion\\getinscripcionesbyuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|solutionrelative:src\\eventosbackend\\eventos.application\\inscripciones\\getinscripcion\\getinscripcionesbyuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{268102F8-AA4A-4CBC-8517-164D68964CAD}|src\\EventosBackend\\Eventos.Infrastructure\\Eventos.Infrastructure.csproj|c:\\users\\miguelapardor\\documents\\pruebatecnica\\eventosbackend\\src\\eventosbackend\\eventos.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{268102F8-AA4A-4CBC-8517-164D68964CAD}|src\\EventosBackend\\Eventos.Infrastructure\\Eventos.Infrastructure.csproj|solutionrelative:src\\eventosbackend\\eventos.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|c:\\users\\miguelapardor\\documents\\pruebatecnica\\eventosbackend\\src\\eventosbackend\\eventos.application\\inscripciones\\getinscripcion\\getinscripcionquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|solutionrelative:src\\eventosbackend\\eventos.application\\inscripciones\\getinscripcion\\getinscripcionquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{268102F8-AA4A-4CBC-8517-164D68964CAD}|src\\EventosBackend\\Eventos.Infrastructure\\Eventos.Infrastructure.csproj|c:\\users\\miguelapardor\\documents\\pruebatecnica\\eventosbackend\\src\\eventosbackend\\eventos.infrastructure\\repositories\\inscripcionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{268102F8-AA4A-4CBC-8517-164D68964CAD}|src\\EventosBackend\\Eventos.Infrastructure\\Eventos.Infrastructure.csproj|solutionrelative:src\\eventosbackend\\eventos.infrastructure\\repositories\\inscripcionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{268102F8-AA4A-4CBC-8517-164D68964CAD}|src\\EventosBackend\\Eventos.Infrastructure\\Eventos.Infrastructure.csproj|c:\\users\\miguelapardor\\documents\\pruebatecnica\\eventosbackend\\src\\eventosbackend\\eventos.infrastructure\\repositories\\eventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{268102F8-AA4A-4CBC-8517-164D68964CAD}|src\\EventosBackend\\Eventos.Infrastructure\\Eventos.Infrastructure.csproj|solutionrelative:src\\eventosbackend\\eventos.infrastructure\\repositories\\eventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97F0265B-3935-4EF2-866C-350B3220A638}|src\\EventosBackend\\Eventos.Domain\\Eventos.Domain.csproj|c:\\users\\miguelapardor\\documents\\pruebatecnica\\eventosbackend\\src\\eventosbackend\\eventos.domain\\ports\\ieventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97F0265B-3935-4EF2-866C-350B3220A638}|src\\EventosBackend\\Eventos.Domain\\Eventos.Domain.csproj|solutionrelative:src\\eventosbackend\\eventos.domain\\ports\\ieventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|c:\\users\\miguelapardor\\documents\\pruebatecnica\\eventosbackend\\src\\eventosbackend\\eventos.application\\inscripciones\\inscribirevento\\inscribireventocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|solutionrelative:src\\eventosbackend\\eventos.application\\inscripciones\\inscribirevento\\inscribireventocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF8714FE-BC37-4A0A-9C17-E456D02046FA}|src\\EventosBackend\\Eventos.Api\\Eventos.Api.csproj|c:\\users\\miguelapardor\\documents\\pruebatecnica\\eventosbackend\\src\\eventosbackend\\eventos.api\\controllers\\inscripciones\\inscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF8714FE-BC37-4A0A-9C17-E456D02046FA}|src\\EventosBackend\\Eventos.Api\\Eventos.Api.csproj|solutionrelative:src\\eventosbackend\\eventos.api\\controllers\\inscripciones\\inscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|c:\\users\\miguelapardor\\documents\\pruebatecnica\\eventosbackend\\src\\eventosbackend\\eventos.application\\eventos\\getevento\\geteventosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|solutionrelative:src\\eventosbackend\\eventos.application\\eventos\\getevento\\geteventosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF8714FE-BC37-4A0A-9C17-E456D02046FA}|src\\EventosBackend\\Eventos.Api\\Eventos.Api.csproj|c:\\users\\miguelapardor\\documents\\pruebatecnica\\eventosbackend\\src\\eventosbackend\\eventos.api\\controllers\\eventos\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF8714FE-BC37-4A0A-9C17-E456D02046FA}|src\\EventosBackend\\Eventos.Api\\Eventos.Api.csproj|solutionrelative:src\\eventosbackend\\eventos.api\\controllers\\eventos\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF8714FE-BC37-4A0A-9C17-E456D02046FA}|src\\EventosBackend\\Eventos.Api\\Eventos.Api.csproj|c:\\users\\miguelapardor\\documents\\pruebatecnica\\eventosbackend\\src\\eventosbackend\\eventos.api\\controllers\\inscripciones\\inscripcionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF8714FE-BC37-4A0A-9C17-E456D02046FA}|src\\EventosBackend\\Eventos.Api\\Eventos.Api.csproj|solutionrelative:src\\eventosbackend\\eventos.api\\controllers\\inscripciones\\inscripcionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|c:\\users\\miguelapardor\\documents\\pruebatecnica\\eventosbackend\\src\\eventosbackend\\eventos.application\\eventos\\getevento\\eventoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|solutionrelative:src\\eventosbackend\\eventos.application\\eventos\\getevento\\eventoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|c:\\users\\miguelapardor\\documents\\pruebatecnica\\eventosbackend\\src\\eventosbackend\\eventos.application\\eventos\\deleteevento\\deleteeventocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|solutionrelative:src\\eventosbackend\\eventos.application\\eventos\\deleteevento\\deleteeventocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|c:\\users\\miguelapardor\\documents\\pruebatecnica\\eventosbackend\\src\\eventosbackend\\eventos.application\\inscripciones\\getinscripcion\\getinscripcionesbyuserquery.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|solutionrelative:src\\eventosbackend\\eventos.application\\inscripciones\\getinscripcion\\getinscripcionesbyuserquery.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8714FE-BC37-4A0A-9C17-E456D02046FA}|src\\EventosBackend\\Eventos.Api\\Eventos.Api.csproj|c:\\users\\miguelapardor\\documents\\pruebatecnica\\eventosbackend\\src\\eventosbackend\\eventos.api\\controllers\\inscripciones\\inscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8714FE-BC37-4A0A-9C17-E456D02046FA}|src\\EventosBackend\\Eventos.Api\\Eventos.Api.csproj|solutionrelative:src\\eventosbackend\\eventos.api\\controllers\\inscripciones\\inscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|c:\\users\\miguelapardor\\documents\\pruebatecnica\\eventosbackend\\src\\eventosbackend\\eventos.application\\inscripciones\\getinscripcion\\inscripcionesusuarioresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|solutionrelative:src\\eventosbackend\\eventos.application\\inscripciones\\getinscripcion\\inscripcionesusuarioresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|c:\\users\\miguelapardor\\documents\\pruebatecnica\\eventosbackend\\src\\eventosbackend\\eventos.application\\inscripciones\\getinscripcion\\getinscripcionqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|solutionrelative:src\\eventosbackend\\eventos.application\\inscripciones\\getinscripcion\\getinscripcionqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|c:\\users\\miguelapardor\\documents\\pruebatecnica\\eventosbackend\\src\\eventosbackend\\eventos.application\\inscripciones\\getinscripcion\\inscripcionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A3086D-1D39-4498-A296-359D7D63F90E}|src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj|solutionrelative:src\\eventosbackend\\eventos.application\\inscripciones\\getinscripcion\\inscripcionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,34 +54,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 24,
+          "SelectedChildIndex": 20,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "src\\EventosBackend\\Eventos.Infrastructure\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "src\\EventosBackend\\Eventos.Infrastructure\\Repositories\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T16:33:55.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IEventoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Domain\\Ports\\IEventoRepository.cs",
-              "RelativeDocumentMoniker": "src\\EventosBackend\\Eventos.Domain\\Ports\\IEventoRepository.cs",
-              "ToolTip": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Domain\\Ports\\IEventoRepository.cs",
-              "RelativeToolTip": "src\\EventosBackend\\Eventos.Domain\\Ports\\IEventoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAByAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T16:23:19.28Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -160,80 +134,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IInscripcionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Domain\\Ports\\IInscripcionRepository.cs",
-              "RelativeDocumentMoniker": "src\\EventosBackend\\Eventos.Domain\\Ports\\IInscripcionRepository.cs",
-              "ToolTip": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Domain\\Ports\\IInscripcionRepository.cs",
-              "RelativeToolTip": "src\\EventosBackend\\Eventos.Domain\\Ports\\IInscripcionRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T16:31:14.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "InscripcionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Infrastructure\\Repositories\\InscripcionRepository.cs",
-              "RelativeDocumentMoniker": "src\\EventosBackend\\Eventos.Infrastructure\\Repositories\\InscripcionRepository.cs",
-              "ToolTip": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Infrastructure\\Repositories\\InscripcionRepository.cs",
-              "RelativeToolTip": "src\\EventosBackend\\Eventos.Infrastructure\\Repositories\\InscripcionRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Title": "GetEventosQuery.cs",
+              "DocumentMoniker": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Eventos\\GetEvento\\GetEventosQuery.cs",
+              "RelativeDocumentMoniker": "src\\EventosBackend\\Eventos.Application\\Eventos\\GetEvento\\GetEventosQuery.cs",
+              "ToolTip": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Eventos\\GetEvento\\GetEventosQuery.cs",
+              "RelativeToolTip": "src\\EventosBackend\\Eventos.Application\\Eventos\\GetEvento\\GetEventosQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T16:31:00.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EventoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Infrastructure\\Repositories\\EventoRepository.cs",
-              "RelativeDocumentMoniker": "src\\EventosBackend\\Eventos.Infrastructure\\Repositories\\EventoRepository.cs",
-              "ToolTip": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Infrastructure\\Repositories\\EventoRepository.cs",
-              "RelativeToolTip": "src\\EventosBackend\\Eventos.Infrastructure\\Repositories\\EventoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T16:21:53.693Z",
+              "WhenOpened": "2025-01-24T07:06:28.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "InscribirEventoCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Inscripciones\\InscribirEvento\\InscribirEventoCommandHandler.cs",
-              "RelativeDocumentMoniker": "src\\EventosBackend\\Eventos.Application\\Inscripciones\\InscribirEvento\\InscribirEventoCommandHandler.cs",
-              "ToolTip": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Inscripciones\\InscribirEvento\\InscribirEventoCommandHandler.cs",
-              "RelativeToolTip": "src\\EventosBackend\\Eventos.Application\\Inscripciones\\InscribirEvento\\InscribirEventoCommandHandler.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAowDUAAABWAAAA",
+              "Title": "GetEventosQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Eventos\\GetEvento\\GetEventosQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\EventosBackend\\Eventos.Application\\Eventos\\GetEvento\\GetEventosQueryHandler.cs",
+              "ToolTip": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Eventos\\GetEvento\\GetEventosQueryHandler.cs",
+              "RelativeToolTip": "src\\EventosBackend\\Eventos.Application\\Eventos\\GetEvento\\GetEventosQueryHandler.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCgAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T16:10:20.455Z",
+              "WhenOpened": "2025-01-24T07:07:30.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventosController.cs",
+              "DocumentMoniker": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Api\\Controllers\\Eventos\\EventosController.cs",
+              "RelativeDocumentMoniker": "src\\EventosBackend\\Eventos.Api\\Controllers\\Eventos\\EventosController.cs",
+              "ToolTip": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Api\\Controllers\\Eventos\\EventosController.cs",
+              "RelativeToolTip": "src\\EventosBackend\\Eventos.Api\\Controllers\\Eventos\\EventosController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADgvxkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T07:05:58.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetInscripcionesByUserQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Inscripciones\\GetInscripcion\\GetInscripcionesByUserQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\EventosBackend\\Eventos.Application\\Inscripciones\\GetInscripcion\\GetInscripcionesByUserQueryHandler.cs",
+              "ToolTip": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Inscripciones\\GetInscripcion\\GetInscripcionesByUserQueryHandler.cs",
+              "RelativeToolTip": "src\\EventosBackend\\Eventos.Application\\Inscripciones\\GetInscripcion\\GetInscripcionesByUserQueryHandler.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwCsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T06:39:23.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InscripcionResponse.cs",
+              "DocumentMoniker": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Inscripciones\\GetInscripcion\\InscripcionResponse.cs",
+              "RelativeDocumentMoniker": "src\\EventosBackend\\Eventos.Application\\Inscripciones\\GetInscripcion\\InscripcionResponse.cs",
+              "ToolTip": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Inscripciones\\GetInscripcion\\InscripcionResponse.cs",
+              "RelativeToolTip": "src\\EventosBackend\\Eventos.Application\\Inscripciones\\GetInscripcion\\InscripcionResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T06:36:37.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InscripcionesUsuarioResponse.cs",
+              "DocumentMoniker": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Inscripciones\\GetInscripcion\\InscripcionesUsuarioResponse.cs",
+              "RelativeDocumentMoniker": "src\\EventosBackend\\Eventos.Application\\Inscripciones\\GetInscripcion\\InscripcionesUsuarioResponse.cs",
+              "ToolTip": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Inscripciones\\GetInscripcion\\InscripcionesUsuarioResponse.cs",
+              "RelativeToolTip": "src\\EventosBackend\\Eventos.Application\\Inscripciones\\GetInscripcion\\InscripcionesUsuarioResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T06:36:27.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetInscripcionQuery.cs",
+              "DocumentMoniker": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Inscripciones\\GetInscripcion\\GetInscripcionQuery.cs",
+              "RelativeDocumentMoniker": "src\\EventosBackend\\Eventos.Application\\Inscripciones\\GetInscripcion\\GetInscripcionQuery.cs",
+              "ToolTip": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Inscripciones\\GetInscripcion\\GetInscripcionQuery.cs",
+              "RelativeToolTip": "src\\EventosBackend\\Eventos.Application\\Inscripciones\\GetInscripcion\\GetInscripcionQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T06:35:12.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Eventos\\GetEvento\\EventoResponse.cs",
+              "RelativeDocumentMoniker": "src\\EventosBackend\\Eventos.Application\\Eventos\\GetEvento\\EventoResponse.cs",
+              "ToolTip": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Eventos\\GetEvento\\EventoResponse.cs",
+              "RelativeToolTip": "src\\EventosBackend\\Eventos.Application\\Eventos\\GetEvento\\EventoResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T06:37:33.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "InscribirEventoCommand.cs",
-              "DocumentMoniker": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Inscripciones\\InscribirEvento\\InscribirEventoCommand.cs",
-              "RelativeDocumentMoniker": "src\\EventosBackend\\Eventos.Application\\Inscripciones\\InscribirEvento\\InscribirEventoCommand.cs",
-              "ToolTip": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Inscripciones\\InscribirEvento\\InscribirEventoCommand.cs",
-              "RelativeToolTip": "src\\EventosBackend\\Eventos.Application\\Inscripciones\\InscribirEvento\\InscribirEventoCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "GetInscripcionesByUserQuery.cs.cs",
+              "DocumentMoniker": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Inscripciones\\GetInscripcion\\GetInscripcionesByUserQuery.cs.cs",
+              "RelativeDocumentMoniker": "src\\EventosBackend\\Eventos.Application\\Inscripciones\\GetInscripcion\\GetInscripcionesByUserQuery.cs.cs",
+              "ToolTip": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Inscripciones\\GetInscripcion\\GetInscripcionesByUserQuery.cs.cs",
+              "RelativeToolTip": "src\\EventosBackend\\Eventos.Application\\Inscripciones\\GetInscripcion\\GetInscripcionesByUserQuery.cs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAB4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T16:10:19.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "InscripcionRequest.cs",
-              "DocumentMoniker": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Api\\Controllers\\Inscripciones\\InscripcionRequest.cs",
-              "RelativeDocumentMoniker": "src\\EventosBackend\\Eventos.Api\\Controllers\\Inscripciones\\InscripcionRequest.cs",
-              "ToolTip": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Api\\Controllers\\Inscripciones\\InscripcionRequest.cs",
-              "RelativeToolTip": "src\\EventosBackend\\Eventos.Api\\Controllers\\Inscripciones\\InscripcionRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T16:00:53.109Z",
+              "WhenOpened": "2025-01-24T06:34:40.947Z",
               "EditorCaption": ""
             },
             {
@@ -244,35 +257,22 @@
               "RelativeDocumentMoniker": "src\\EventosBackend\\Eventos.Api\\Controllers\\Inscripciones\\InscripcionesController.cs",
               "ToolTip": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Api\\Controllers\\Inscripciones\\InscripcionesController.cs",
               "RelativeToolTip": "src\\EventosBackend\\Eventos.Api\\Controllers\\Inscripciones\\InscripcionesController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAIwCQAAAA0AAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCQAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T15:53:05.332Z",
+              "WhenOpened": "2025-01-24T06:31:34.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DeleteEventoCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Eventos\\DeleteEvento\\DeleteEventoCommandHandler.cs",
-              "RelativeDocumentMoniker": "src\\EventosBackend\\Eventos.Application\\Eventos\\DeleteEvento\\DeleteEventoCommandHandler.cs",
-              "ToolTip": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Eventos\\DeleteEvento\\DeleteEventoCommandHandler.cs",
-              "RelativeToolTip": "src\\EventosBackend\\Eventos.Application\\Eventos\\DeleteEvento\\DeleteEventoCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAtAAAA",
+              "DocumentIndex": 9,
+              "Title": "GetInscripcionQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Inscripciones\\GetInscripcion\\GetInscripcionQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\EventosBackend\\Eventos.Application\\Inscripciones\\GetInscripcion\\GetInscripcionQueryHandler.cs",
+              "ToolTip": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Inscripciones\\GetInscripcion\\GetInscripcionQueryHandler.cs",
+              "RelativeToolTip": "src\\EventosBackend\\Eventos.Application\\Inscripciones\\GetInscripcion\\GetInscripcionQueryHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T15:58:18.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EventosController.cs",
-              "DocumentMoniker": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Api\\Controllers\\Eventos\\EventosController.cs",
-              "RelativeDocumentMoniker": "src\\EventosBackend\\Eventos.Api\\Controllers\\Eventos\\EventosController.cs",
-              "ToolTip": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Api\\Controllers\\Eventos\\EventosController.cs",
-              "RelativeToolTip": "src\\EventosBackend\\Eventos.Api\\Controllers\\Eventos\\EventosController.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAwwFsAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T15:49:46.946Z",
+              "WhenOpened": "2025-01-24T06:39:34.994Z",
               "EditorCaption": ""
             }
           ]

@@ -18,10 +18,12 @@ namespace Eventos.Api.Controllers.Eventos
             _sender = sender;
         }
 
-        [HttpGet]
-        public async Task<IActionResult> GetEventos(CancellationToken cancellationToken)
+        [HttpGet("disponibles/{id}")]
+        public async Task<IActionResult> GetEventos(
+            Guid id,
+            CancellationToken cancellationToken)
         {
-            var query = new GetEventosQuery();
+            var query = new GetEventosQuery(id);
             var resultados = await _sender.Send(query, cancellationToken);
 
             return Ok(resultados.Value);
@@ -34,6 +36,18 @@ namespace Eventos.Api.Controllers.Eventos
         )
         {
             var query = new GetEventoQuery(id);
+            var resultado = await _sender.Send(query, cancellationToken);
+
+            return resultado.IsSuccess ? Ok(resultado.Value) : NotFound();
+        }
+
+        [HttpGet("user/{id}")]
+        public async Task<IActionResult> GetEventosByUser(
+            Guid id,
+            CancellationToken cancellationToken
+            )
+        {
+            var query = new GetEventosByUserQuery(id);
             var resultado = await _sender.Send(query, cancellationToken);
 
             return resultado.IsSuccess ? Ok(resultado.Value) : NotFound();

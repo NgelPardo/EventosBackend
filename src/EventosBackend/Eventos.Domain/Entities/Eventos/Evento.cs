@@ -6,7 +6,7 @@ namespace Eventos.Domain.Entities.Eventos
     public sealed class Evento : Entity
     {
         private Evento() { }
-        public Evento(
+        private Evento(
             Guid id,
             Guid idUsuario,
             string nombre,
@@ -45,7 +45,7 @@ namespace Eventos.Domain.Entities.Eventos
         )
         {
             const int capacidadInicial = 0;
-            var evento = new Evento(Guid.NewGuid(), idUsuario, nombre, descripcion, ubicacion, capacidadMaxima, capacidadInicial, fechaEvento, fechaCreacion);
+            Evento evento = new(Guid.NewGuid(), idUsuario, nombre, descripcion, ubicacion, capacidadMaxima, capacidadInicial, fechaEvento, fechaCreacion);
             evento.RaiseDomainEvent(new EventoCreatedDomainEvent(evento.Id));
             return evento; 
         }

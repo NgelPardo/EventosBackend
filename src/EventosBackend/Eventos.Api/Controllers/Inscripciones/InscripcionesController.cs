@@ -28,6 +28,18 @@ namespace Eventos.Api.Controllers.Inscripciones
             return resultado.IsSuccess ? Ok(resultado.Value) : NotFound();
         }
 
+        [HttpGet("user/{id}")]
+        public async Task<IActionResult> GetInscripcionesByUser(
+            Guid id,
+            CancellationToken cancellationToken
+            )
+        {
+            var query = new GetInscripcionesByUserQuery(id);
+            var resultados = await _sender.Send(query, cancellationToken);
+
+            return resultados.IsSuccess ? Ok(resultados.Value) : NotFound();
+        }
+
         [HttpPost]
         public async Task<IActionResult> InscribirEvento(
             InscripcionRequest request,

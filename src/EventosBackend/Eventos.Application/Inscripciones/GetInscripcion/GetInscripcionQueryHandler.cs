@@ -34,7 +34,7 @@ namespace Eventos.Application.Inscripciones.GetInscripcion
                 }    
             );
 
-            return inscripcion;
+            return inscripcion!;
         }
     }
 }

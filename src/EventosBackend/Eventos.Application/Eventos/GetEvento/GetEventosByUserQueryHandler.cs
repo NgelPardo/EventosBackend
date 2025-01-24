@@ -21,13 +21,14 @@ namespace Eventos.Application.Eventos.GetEvento
             const string sql = """
                 SELECT
                     id AS Id,
-                    idUsuario AS IdUsuario,
+                    id_usuario AS IdUsuario,
                     nombre AS Nombre,
                     descripcion AS Descripcion,
-                    capacidadMaxima AS CapacidadMaxima,
-                    capacidadActual AS CapacidadActual,
-                    fechaEvento AS FechaEvento,
-                    fechaCreacion AS FechaCreacion
+                    ubicacion AS Ubicacion,
+                    capacidad_maxima AS CapacidadMaxima,
+                    capacidad_actual AS CapacidadActual,
+                    fecha_evento AS FechaEvento,
+                    fecha_creacion AS FechaCreacion
                 FROM eventos WHERE id_usuario = @IdUser
             """;
 
