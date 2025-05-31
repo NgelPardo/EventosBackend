@@ -3,6 +3,7 @@ using Eventos.Application.Eventos.GetEvento;
 using Eventos.Domain.Abstractions;
 using Eventos.Domain.Entities.Eventos;
 using Eventos.Domain.Entities.Inscripciones;
+using Eventos.Domain.Entities.Users;
 using Eventos.Domain.Entities.Usuarios;
 using Eventos.Domain.Ports;
 
@@ -31,14 +32,14 @@ namespace Eventos.Application.Inscripciones.InscribirEvento
             CancellationToken cancellationToken
             )
         {
-            var user = await _userRepository.GetByIdAsync(request.UsuarioId, cancellationToken);
+            Usuario user = await _userRepository.GetByIdAsync(request.UsuarioId, cancellationToken);
 
             if (user is null)
             {
                 return Result.Failure<Guid>(UsuarioErrors.NotFound);
             }
 
-            var evento = await _eventoRepository.GetByIdAsync(request.EventoId);
+            Evento evento = await _eventoRepository.GetByIdAsync(request.EventoId);
 
             if (evento.IdUsuario == user.Id)
             {
@@ -46,7 +47,7 @@ namespace Eventos.Application.Inscripciones.InscribirEvento
                 return Result.Failure<Guid>(InscripcionErrors.OwnerEvent);
             }
 
-            var eventosByUserResult = await _inscripcionRepository.GetEventsByUserAsync(user.Id, cancellationToken);
+            List<Inscripcion> eventosByUserResult = await _inscripcionRepository.GetEventsByUserAsync(user.Id, cancellationToken);
 
             if (eventosByUserResult.Count >= 3)
             {
@@ -65,7 +66,7 @@ namespace Eventos.Application.Inscripciones.InscribirEvento
             //Actualizar capacidad actual evento 
             await _eventoRepository.Update(evento);
 
-            var inscripcion = Inscripcion.Inscribir(
+            Inscripcion inscripcion = Inscripcion.Inscribir(
                 request.UsuarioId, 
                 request.EventoId, 
                 request.FechaCreacion

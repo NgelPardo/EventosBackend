@@ -27,14 +27,15 @@ namespace Eventos.Application.Eventos.GetEvento
                    e.capacidad_actual AS CapacidadActual,
                    e.fecha_evento AS FechaEvento
                 FROM eventos e
-                WHERE e.id NOT IN (
+                WHERE e.id_usuario <> @UserId
+                AND e.id NOT IN (
                     SELECT i.evento_id
                     FROM inscripciones i
                     WHERE i.usuario_id = @UserId  
                 );
             """;
 
-            var eventos = await connection.QueryAsync<EventoResponse>(
+            IEnumerable<EventoResponse> eventos = await connection.QueryAsync<EventoResponse>(
                     sql,
                     new
                     {

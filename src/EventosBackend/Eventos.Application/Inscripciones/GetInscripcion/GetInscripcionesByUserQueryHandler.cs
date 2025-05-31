@@ -18,7 +18,7 @@ namespace Eventos.Application.Inscripciones.GetInscripcion
         {
             using var connection = _connectionFactory.CreateConnection();
 
-            var sql = """
+            const string sql = """
                 SELECT
             	    ins.id AS Id,
             	    ins.usuario_id AS UsuarioId,
@@ -33,7 +33,7 @@ namespace Eventos.Application.Inscripciones.GetInscripcion
                 WHERE ins.usuario_id = @UserId
             """;
 
-            var inscripcionesUsuario = await connection.QueryAsync<InscripcionesUsuarioResponse>(
+            IEnumerable<InscripcionesUsuarioResponse> inscripcionesUsuario = await connection.QueryAsync<InscripcionesUsuarioResponse>(
                 sql,
                 new
                 {

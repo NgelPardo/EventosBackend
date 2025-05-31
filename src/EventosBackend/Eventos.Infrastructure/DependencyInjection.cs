@@ -1,7 +1,9 @@
 ﻿using Eventos.Application.Abstractions.Data;
+using Eventos.Application.Abstractions.Email;
 using Eventos.Domain.Abstractions;
 using Eventos.Domain.Ports;
 using Eventos.Infrastructure.Data;
+using Eventos.Infrastructure.Email;
 using Eventos.Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -16,6 +18,8 @@ namespace Eventos.Infrastructure
             IConfiguration configuration 
             )
         {
+            services.AddTransient<IEmailService, EmailService>();
+
             var connectionString = configuration.GetConnectionString("Database")
                 ?? throw new ArgumentNullException(nameof(configuration));
 

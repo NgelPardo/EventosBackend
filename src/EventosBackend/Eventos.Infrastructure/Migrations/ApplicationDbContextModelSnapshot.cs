@@ -124,6 +124,11 @@ namespace Eventos.Infrastructure.Migrations
                         .HasColumnType("nvarchar(200)")
                         .HasColumnName("nombre");
 
+                    b.Property<string>("PasswordHash")
+                        .HasMaxLength(2000)
+                        .HasColumnType("nvarchar(2000)")
+                        .HasColumnName("password_hash");
+
                     b.HasKey("Id")
                         .HasName("pk_usuarios");
 

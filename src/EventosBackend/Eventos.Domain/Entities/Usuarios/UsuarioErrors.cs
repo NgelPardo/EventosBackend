@@ -13,5 +13,10 @@ namespace Eventos.Domain.Entities.Usuarios
             "Usuario.AlreadyExists",
             "El usuario ya existe"
         );
+
+        public static Error InvalidCredentials = new Error(
+            "Usuario.InvalidCredentials",
+            "Credenciales invalidas"
+        );
     }
 }

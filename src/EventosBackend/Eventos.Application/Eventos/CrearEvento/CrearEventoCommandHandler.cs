@@ -1,6 +1,7 @@
 ﻿using Eventos.Application.Abstractions.Messaging;
 using Eventos.Domain.Abstractions;
 using Eventos.Domain.Entities.Eventos;
+using Eventos.Domain.Entities.Users;
 using Eventos.Domain.Entities.Usuarios;
 using Eventos.Domain.Ports;
 
@@ -26,14 +27,14 @@ namespace Eventos.Application.Eventos.CrearEvento
 
         public async Task<Result<Guid>> Handle(CrearEventoCommand request, CancellationToken cancellationToken)
         {
-            var user = await _userRepository.GetByIdAsync(request.IdUsuario, cancellationToken);
+            Usuario user = await _userRepository.GetByIdAsync(request.IdUsuario, cancellationToken);
 
             if(user is null)
             {
                 return Result.Failure<Guid>(UsuarioErrors.NotFound);
             }
 
-            var evento = Evento.Create(
+            Evento evento = Evento.Create(
                 request.IdUsuario,
                 request.Nombre,
                 request.Descripcion,

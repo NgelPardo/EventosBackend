@@ -1,4 +1,5 @@
 ﻿using Eventos.Domain.Abstractions;
+using Eventos.Domain.Entities.Inscripciones.Events;
 
 namespace Eventos.Domain.Entities.Inscripciones
 {
@@ -25,7 +26,10 @@ namespace Eventos.Domain.Entities.Inscripciones
             DateTime fechaCreacion
         )
         {
-            var inscripcion = new Inscripcion(Guid.NewGuid(), usuarioId, eventoId, fechaCreacion);
+            Inscripcion inscripcion = new Inscripcion(Guid.NewGuid(), usuarioId, eventoId, fechaCreacion);
+
+            inscripcion.RaiseDomainEvent(new EventoInscritoDomainEvent(eventoId!, usuarioId!));
+
             return inscripcion;
         }
     }

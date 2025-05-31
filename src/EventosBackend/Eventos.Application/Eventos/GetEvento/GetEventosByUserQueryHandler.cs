@@ -32,7 +32,7 @@ namespace Eventos.Application.Eventos.GetEvento
                 FROM eventos WHERE id_usuario = @IdUser
             """;
 
-            var eventos = await connection.QueryAsync<EventoResponse>(
+            IEnumerable<EventoResponse> eventos = await connection.QueryAsync<EventoResponse>(
                     sql,
                     new
                     {

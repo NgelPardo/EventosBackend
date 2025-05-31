@@ -2,7 +2,7 @@
 {
     public sealed record InscripcionRequest(
         Guid eventoId,
-        Guid userId,
+        Guid usuarioId,
         DateTime fechaCreacion
     );
 }

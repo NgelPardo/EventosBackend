@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "UOAyI9gEF2IFNb+eom7xEANStPLEmDwMm6qt5ULq9rHAXkTjbs5NCkHdFlR8bjJkgLdvqbg3qqFzgE7R4O/V0w==",
+  "dgSpecHash": "mWP98qVnGEGSAs5I2KfnMvCtg6UTv6JoMxTMZwjw47vYm3OvrJjc4tRyjAMZjvPnkfuESj4Ih3KPy5y6q9aHfw==",
   "success": true,
   "projectFilePath": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Infrastructure\\Eventos.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\miguelapardor\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\miguelapardor\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\miguelapardor\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\miguelapardor\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\miguelapardor\\.nuget\\packages\\efcore.namingconventions\\9.0.0\\efcore.namingconventions.9.0.0.nupkg.sha512",
+    "C:\\Users\\miguelapardor\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
     "C:\\Users\\miguelapardor\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\miguelapardor\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\miguelapardor\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

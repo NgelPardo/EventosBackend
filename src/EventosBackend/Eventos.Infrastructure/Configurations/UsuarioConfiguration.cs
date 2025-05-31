@@ -20,6 +20,9 @@ namespace Eventos.Infrastructure.Configurations
             builder.Property(user => user.Email)
                 .HasMaxLength(400);
 
+            builder.Property(user => user.PasswordHash)
+                .HasMaxLength(2000);
+
             builder.HasIndex(user => user.Email).IsUnique();
         }
     }

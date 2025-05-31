@@ -1,6 +1,8 @@
 ﻿using Eventos.Application.Inscripciones.GetInscripcion;
 using Eventos.Application.Inscripciones.InscribirEvento;
+using Eventos.Domain.Abstractions;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Eventos.Api.Controllers.Inscripciones
@@ -22,7 +24,7 @@ namespace Eventos.Api.Controllers.Inscripciones
             CancellationToken cancellationToken
         )
         {
-            var query = new GetInscripcionQuery(id);
+            GetInscripcionQuery query = new GetInscripcionQuery(id);
             var resultado = await _sender.Send(query, cancellationToken);
 
             return resultado.IsSuccess ? Ok(resultado.Value) : NotFound();
@@ -34,7 +36,7 @@ namespace Eventos.Api.Controllers.Inscripciones
             CancellationToken cancellationToken
             )
         {
-            var query = new GetInscripcionesByUserQuery(id);
+            GetInscripcionesByUserQuery query = new GetInscripcionesByUserQuery(id);
             var resultados = await _sender.Send(query, cancellationToken);
 
             return resultados.IsSuccess ? Ok(resultados.Value) : NotFound();
@@ -46,8 +48,8 @@ namespace Eventos.Api.Controllers.Inscripciones
             CancellationToken cancellationToken
         )
         {
-            var command = new InscribirEventoCommand(
-                request.userId,
+            InscribirEventoCommand command = new InscribirEventoCommand(
+                request.usuarioId,
                 request.eventoId,
                 request.fechaCreacion
             );

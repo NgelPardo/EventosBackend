@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7tA7xxyj722ZwPJIixwaSAkIAhylRcz9T6OFZnP8JjesS6qWHtIAxUDkxqlRN1i2tSYIfEsZpNV03VmH4YJP3A==",
+  "dgSpecHash": "SndslPBBctvGDAWd9ENnr5vl/TLCjC9Gyxp+bEBdzhVMvnieEuz8ZYXFanHC39CJHXpPp/4bubpuiWNoreuVxQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\src\\EventosBackend\\Eventos.Application\\Eventos.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\miguelapardor\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\miguelapardor\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\miguelapardor\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
     "C:\\Users\\miguelapardor\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\miguelapardor\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\miguelapardor\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"

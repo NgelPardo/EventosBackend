@@ -2,6 +2,7 @@
 using Eventos.Application.Abstractions.Data;
 using Eventos.Application.Abstractions.Messaging;
 using Eventos.Domain.Abstractions;
+using Eventos.Domain.Entities.Users;
 
 namespace Eventos.Application.Usuarios.GetUsuario
 {
@@ -21,7 +22,7 @@ namespace Eventos.Application.Usuarios.GetUsuario
         {
             using var connection = _sqlConnectionFactory.CreateConnection();
 
-            var sql = """
+            const string sql = """
                 SELECT
                     id AS Id,
                     nombre AS Nombre,
@@ -31,7 +32,7 @@ namespace Eventos.Application.Usuarios.GetUsuario
                 FROM usuarios
             """;
 
-            var usuario = await connection.QueryFirstOrDefaultAsync<UsuarioResponse>(
+            UsuarioResponse usuario = await connection.QueryFirstOrDefaultAsync<UsuarioResponse>(
                 sql,
                 new
                 {

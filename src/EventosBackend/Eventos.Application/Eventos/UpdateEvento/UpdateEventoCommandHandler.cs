@@ -18,7 +18,7 @@ namespace Eventos.Application.Eventos.UpdateEvento
 
         public async Task<Result<Guid>> Handle(UpdateEventoCommand request, CancellationToken cancellationToken)
         {
-            var evento = await _eventoRepository.GetByIdAsync(request.Id);
+            Evento evento = await _eventoRepository.GetByIdAsync(request.Id);
 
             if ( evento is null)
             {

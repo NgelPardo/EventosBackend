@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eventos.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c83542d73128935fefc10fcd0000f28bfb8b9cb6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc19796b65d4dc3ef1470a0150705799c58ff973")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eventos.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eventos.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

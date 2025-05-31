@@ -20,7 +20,7 @@ namespace Eventos.Application.Eventos.GetEvento
         {
             using var connection = _sqlConnectionFactory.CreateConnection();
 
-            var sql = """
+            const string sql = """
                 SELECT
                     id AS Id,
                     id_usuario AS IdUsuario,
@@ -34,7 +34,7 @@ namespace Eventos.Application.Eventos.GetEvento
                 FROM eventos WHERE id = @EventoId
             """;
 
-            var evento = await connection.QueryFirstOrDefaultAsync<EventoResponse>(
+            EventoResponse evento = await connection.QueryFirstOrDefaultAsync<EventoResponse>(
                 sql,
                 new
                 {

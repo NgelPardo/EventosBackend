@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "+anZQywT+ulzfbMFiix5SLmuwyWeIE1J6NKF0QRqK4tx8l87hn+hcQerqT2kYnEllD3IJRb6NGMsiIUyzCuqug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miguelapardor\\Documents\\PRUEBATECNICA\\EventosBackend\\test\\EventosBackend\\EventosBackend.Domain.UnitTests\\EventosBackend.Domain.UnitTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miguelapardor\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
+    "C:\\Users\\miguelapardor\\.nuget\\packages\\fluentassertions\\8.0.1\\fluentassertions.8.0.1.nupkg.sha512",
+    "C:\\Users\\miguelapardor\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\miguelapardor\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",
+    "C:\\Users\\miguelapardor\\.nuget\\packages\\microsoft.net.test.sdk\\17.12.0\\microsoft.net.test.sdk.17.12.0.nupkg.sha512",
+    "C:\\Users\\miguelapardor\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.12.0\\microsoft.testplatform.objectmodel.17.12.0.nupkg.sha512",
+    "C:\\Users\\miguelapardor\\.nuget\\packages\\microsoft.testplatform.testhost\\17.12.0\\microsoft.testplatform.testhost.17.12.0.nupkg.sha512",
+    "C:\\Users\\miguelapardor\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\miguelapardor\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\miguelapardor\\.nuget\\packages\\xunit\\2.9.3\\xunit.2.9.3.nupkg.sha512",
+    "C:\\Users\\miguelapardor\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\miguelapardor\\.nuget\\packages\\xunit.analyzers\\1.18.0\\xunit.analyzers.1.18.0.nupkg.sha512",
+    "C:\\Users\\miguelapardor\\.nuget\\packages\\xunit.assert\\2.9.3\\xunit.assert.2.9.3.nupkg.sha512",
+    "C:\\Users\\miguelapardor\\.nuget\\packages\\xunit.core\\2.9.3\\xunit.core.2.9.3.nupkg.sha512",
+    "C:\\Users\\miguelapardor\\.nuget\\packages\\xunit.extensibility.core\\2.9.3\\xunit.extensibility.core.2.9.3.nupkg.sha512",
+    "C:\\Users\\miguelapardor\\.nuget\\packages\\xunit.extensibility.execution\\2.9.3\\xunit.extensibility.execution.2.9.3.nupkg.sha512",
+    "C:\\Users\\miguelapardor\\.nuget\\packages\\xunit.runner.visualstudio\\3.0.1\\xunit.runner.visualstudio.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

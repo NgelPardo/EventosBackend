@@ -2,6 +2,7 @@
 using Eventos.Application.Eventos.DeleteEvento;
 using Eventos.Application.Eventos.GetEvento;
 using Eventos.Application.Eventos.UpdateEvento;
+using Eventos.Domain.Abstractions;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
@@ -23,7 +24,7 @@ namespace Eventos.Api.Controllers.Eventos
             Guid id,
             CancellationToken cancellationToken)
         {
-            var query = new GetEventosQuery(id);
+            GetEventosQuery query = new GetEventosQuery(id);
             var resultados = await _sender.Send(query, cancellationToken);
 
             return Ok(resultados.Value);
@@ -35,7 +36,7 @@ namespace Eventos.Api.Controllers.Eventos
             CancellationToken cancellationToken
         )
         {
-            var query = new GetEventoQuery(id);
+            GetEventoQuery query = new GetEventoQuery(id);
             var resultado = await _sender.Send(query, cancellationToken);
 
             return resultado.IsSuccess ? Ok(resultado.Value) : NotFound();
@@ -47,7 +48,7 @@ namespace Eventos.Api.Controllers.Eventos
             CancellationToken cancellationToken
             )
         {
-            var query = new GetEventosByUserQuery(id);
+            GetEventosByUserQuery query = new GetEventosByUserQuery(id);
             var resultado = await _sender.Send(query, cancellationToken);
 
             return resultado.IsSuccess ? Ok(resultado.Value) : NotFound();
@@ -59,7 +60,7 @@ namespace Eventos.Api.Controllers.Eventos
             CancellationToken cancellationToken
         )
         {
-            var command = new CrearEventoCommand(
+            CrearEventoCommand command = new CrearEventoCommand(
                 request.idUsuario,
                 request.nombre,
                 request.descripcion,
@@ -86,7 +87,7 @@ namespace Eventos.Api.Controllers.Eventos
             CancellationToken cancellationToken
         )
         {
-            var command = new UpdateEventoCommand(
+            UpdateEventoCommand command = new UpdateEventoCommand(
                 id,
                 request.capacidadMaxima,
                 request.fechaEvento,
@@ -109,7 +110,7 @@ namespace Eventos.Api.Controllers.Eventos
             CancellationToken cancellationToken
         )
         {
-            var command = new DeleteEventoCommand(id);
+            DeleteEventoCommand command = new DeleteEventoCommand(id);
 
             var result = await _sender.Send(command,cancellationToken);
 
